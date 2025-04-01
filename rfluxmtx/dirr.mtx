@@ -1,0 +1,12 @@
+#?RADIANCE
+oconv -f -i scene.oct receivers3.rad
+rcontrib -fo+ -V+ -ab 0 -t 5 -dj 0 -fda -c 10000 -bn 1 -b if(-Dx*-0.0268807-Dy*0-Dz*-0.999639,0,-1) -m al_88.460_az_270.000 -bn 1 -b if(-Dx*0.0384644-Dy*0.0352365-Dz*-0.998639,0,-1) -m al_87.010_az_047.508 -y 1
+SOFTWARE= RADIANCE 5.4 2023-11-05 LBNL (5.4.4ee32974b1)
+CAPDATE= 2025:04:02 00:04:53
+GMT= 2025:04:01 22:04:53
+NCOMP=3
+NROWS=1
+NCOLS=2
+FORMAT=ascii
+
+1.387789e+01	1.387789e+01	1.387789e+01	1.543596e+01	1.543596e+01	1.543596e+01	
