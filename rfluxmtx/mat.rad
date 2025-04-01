@@ -1,0 +1,6 @@
+void plastic simpleOpac
+0
+0
+5 0.2 0.2 0.2 0.0 0.0
+
+void light sunMod 0 0 3 15000000.0 15000000.0 15000000.0
