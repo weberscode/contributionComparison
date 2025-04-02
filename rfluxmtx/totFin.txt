@@ -1,0 +1,15 @@
+#?RADIANCE
+rmtxop -faa -c 0.333333333 0.333333333 0.333333334 -t tot.mtx
+oconv -f -i scene.oct receivers3.rad
+rcontrib -fo+ -V+ -ab 6 -ad 25000 -lw 4.0000e-05 -t 5 -dj 0 -fda -c 10000 -bn 1 -b if(-Dx*-0.0268807-Dy*0-Dz*-0.999639,0,-1) -m al_88.460_az_270.000 -bn 1 -b if(-Dx*0.0384644-Dy*0.0352365-Dz*-0.998639,0,-1) -m al_87.010_az_047.508 -y 1
+SOFTWARE= RADIANCE 5.4 2023-11-05 LBNL (5.4.4ee32974b1)
+CAPDATE= 2025:04:02 01:56:05
+GMT= 2025:04:01 23:56:05
+Applied 1x3 component transform
+NROWS=2
+NCOLS=1
+NCOMP=1
+FORMAT=ascii
+
+ 1.822528000000000e+01	
+ 1.985656000000000e+01	
