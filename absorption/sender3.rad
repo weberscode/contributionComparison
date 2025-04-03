@@ -1,0 +1,30 @@
+#@rfluxmtx h=u
+void plastic sender3
+0
+0
+5 1.0 1.0 1.0 0.0 0.0
+
+sender3 polygon sender3_1_0df10d76
+0
+0
+12 0.0 0.0 0.0 0.0 1.0 0.0 3.6 1.0 0.0 3.6 0.0 0.0
+
+sender3 polygon sender3_2_7eb7fdac
+0
+0
+12 0.0 0.0 2.8 3.6 0.0 2.8 3.6 1.0 2.8 0.0 1.0 2.8
+
+sender3 polygon sender3_3_97b221d4
+0
+0
+12 0.0 0.0 0.0 0.0 0.0 2.8 0.0 1.0 2.8 0.0 1.0 0.0
+
+sender3 polygon sender3_4_5363d800
+0
+0
+12 3.6 0.0 0.0 3.6 1.0 0.0 3.6 1.0 2.8 3.6 0.0 2.8
+
+sender3 polygon sender3_5_0cd67c37
+0
+0
+12 0.0 1.0 0.0 0.0 1.0 2.8 3.6 1.0 2.8 3.6 1.0 0.0
